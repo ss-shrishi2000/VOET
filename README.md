@@ -1,5 +1,5 @@
 
-# Voice Powered Expense Tracker (Using ReactJS and Specchly)
+# Voice Powered Expense Tracker (Using ReactJS and Speechly)
 
 The above project is A Complex Budget Tracker which is built using the functionality of ReactJS and Voice Capabilities by Speechly. 
 Makes use of graphical representations to visualize the daily expenses effectively and thereby improving the user-experience.
