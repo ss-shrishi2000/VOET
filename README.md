@@ -18,6 +18,15 @@ modality.
 
 **The Project is still being built and is under progress. :)
 
+##Detailed Description of Features include :-
+
+- Automatic Updation Of Data 
+- Transaction Successful Creation dialog box portraying successful data entry.
+- Automatic updation of Date, Time, via Speechly.
+- Local Storage usage - We do retain back the data that was entered during the last use of the application.
+- Works well not only as webapp but also on mobile devices.
+- Nicely visible charts and an interactive UI.
+
 
 
 # Getting Started with Create React App
