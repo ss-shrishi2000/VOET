@@ -18,7 +18,7 @@ modality.
 
 **The Project is still being built and is under progress. :)
 
-##Detailed Description of Features include :-
+## Detailed Description of Features include :-
 
 - Automatic Updation Of Data 
 - Transaction Successful Creation dialog box portraying successful data entry.
