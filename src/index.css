@@ -1,0 +1,14 @@
+#root , body ,html{
+  margin: 0;
+  height:100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: linear-gradient(rgba(8, 8, 8, 0.5) , rgba(3, 3, 3, 0.5) ) , url(./assets/exp-2.png);
+  background-size: cover;
+}
